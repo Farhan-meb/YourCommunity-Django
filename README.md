@@ -11,10 +11,10 @@ This is a web application for bloggers using django framework. I made this proje
 - ⚡ Used : Html,Css,Bootstrap,Django framework
 
 ## 📸 Images
-![login](https://github.com/Farhan-meb/YourCommunity/blob/main/screenshots/1.jpg)
-![reg](https://github.com/Farhan-meb/YourCommunity/blob/main/screenshots/2.jpg)
-![prof](https://github.com/Farhan-meb/YourCommunity/blob/main/screenshots/3.jpg)
-![home](https://github.com/Farhan-meb/YourCommunity/blob/main/screenshots/4.jpg)
-![ind_Post](https://github.com/Farhan-meb/YourCommunity/blob/main/screenshots/5.jpg)
+![login](https://github.com/Farhan-meb/YourCommunity/blob/main/screenshots/1.jpg) <br>
+![reg](https://github.com/Farhan-meb/YourCommunity/blob/main/screenshots/2.jpg) <br>
+![prof](https://github.com/Farhan-meb/YourCommunity/blob/main/screenshots/3.jpg) <br>
+![home](https://github.com/Farhan-meb/YourCommunity/blob/main/screenshots/4.jpg) <br>
+![ind_Post](https://github.com/Farhan-meb/YourCommunity/blob/main/screenshots/5.jpg) <br>
 ![user_post](https://github.com/Farhan-meb/YourCommunity/blob/main/screenshots/6.jpg)
-
+ 
